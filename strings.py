@@ -19,3 +19,19 @@ print("This",str4.lower())
 
 print("This",str4.upper())
 
+#emdswoith
+
+str0= "Python"
+
+print(str0.endswith("on"))
+print(str0.endswith("in"))
+
+#Capitalize
+
+str00= "python programming"
+
+print(str.capitalize(str00))
+
+
+
+
