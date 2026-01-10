@@ -10,3 +10,11 @@ info = {
 }
 
 print(info)
+
+#methods
+print('Dictionary Methods')
+print(dict1.keys())
+print(dict1.values())
+print(dict1.items())
+print(dict1.get('name'))
+

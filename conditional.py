@@ -1,0 +1,10 @@
+#Conduitional statments
+
+print('Enter a nuimber')
+num = int(input())
+if (num > 0):
+    print('The number is positive')
+elif (num == 0):
+    print('The number is zero')
+else:
+    print('The number is negative')
