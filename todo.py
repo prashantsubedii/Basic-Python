@@ -6,4 +6,10 @@ while True:
 
     if ch == 1:
         task = input("Enter task: ")
-   
+        tasks.append(task)
+    elif ch == 2:
+        print(tasks)
+    elif ch == 3:
+        tasks.pop()
+    elif ch == 4:
+        break
